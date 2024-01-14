@@ -5,7 +5,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flavioclaudiano&theme=algolia&show_icons=true)
 
-flavioclaudiano/gifMatrix.gif
+![](/logos/gifMatrix.gif)
+<img src="logos/gifMatrix.gif">
 
 <!---
 flavioclaudiano/flavioclaudiano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
